@@ -1,7 +1,5 @@
-### Hi there 👋
+### Hi there 👋, I'm Mia
 
-# AyodeleSeriki
-### 👋 Hi there, I'm Mia
 ![Python](https://img.shields.io/badge/Python-Intermediate-orange?style=for-the-badge&logo=Python)
 ![Golang](https://img.shields.io/badge/Go-Intermediate-orange?style=for-the-badge&logo=go)
 ![kubernetes](https://img.shields.io/badge/Kubernetes-Intermediate-orange?style=for-the-badge&logo=kubernetes)
