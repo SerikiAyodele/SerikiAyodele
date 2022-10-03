@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Mia
 
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+
 ![Python](https://img.shields.io/badge/Python-Intermediate-orange?style=for-the-badge&logo=Python)
 ![Golang](https://img.shields.io/badge/Go-Intermediate-orange?style=for-the-badge&logo=go)
 ![kubernetes](https://img.shields.io/badge/Kubernetes-Intermediate-orange?style=for-the-badge&logo=kubernetes)
