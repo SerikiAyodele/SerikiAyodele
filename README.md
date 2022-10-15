@@ -21,9 +21,9 @@
   
 - 👯 I’m looking to collaborate on open source projects
   
-- 💬 Ask me about DevOps, SRE
+- 💬 Ask me about DevOps and SRE
   
-- ⚡ Fun fact: I like to find problems and solve them.
+- ⚡ Fun fact: I like to find problems and solve them
  
  ### 📫 Reach me at 
 
