@@ -31,7 +31,9 @@ if __name__ == '__main__':
 
 <h2 align="center">
 Technologies and Languages </h2>
-
+![ansible](https://img.shields.io/badge/Ansible-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=markdown&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-330F63?style=flat-square&logo=gitlab&logoColor=white)
 ![kubernetes](https://img.shields.io/badge/Kubernetes-0078D6?style=flat-square&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
