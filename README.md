@@ -20,14 +20,14 @@ if __name__ == '__main__':
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-![Python](https://img.shields.io/badge/Python-Language-brown?style=for-the-badge&logo=Python)
-![Golang](https://img.shields.io/badge/Go-Language-brown?style=for-the-badge&logo=go)
-![kubernetes](https://img.shields.io/badge/Kubernetes-Containerization-brown?style=for-the-badge&logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform-IAC-brown?style=for-the-badge&logo=terraform)
-![ansible](https://img.shields.io/badge/Ansible-IAC-brown?style=for-the-badge&logo=ansible)
-![AWS](https://img.shields.io/badge/AWS-Cloud-brown?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-brown?style=for-the-badge)
-![GCP](https://img.shields.io/badge/GCP-Cloud-brown?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Language-blue?style=for-the-badge&logo=Python)
+![Golang](https://img.shields.io/badge/Go-Language-blue?style=for-the-badge&logo=go)
+![kubernetes](https://img.shields.io/badge/Kubernetes-Containerization-blue?style=for-the-badge&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-IAC-blue?style=for-the-badge&logo=terraform)
+![ansible](https://img.shields.io/badge/Ansible-IAC-blue?style=for-the-badge&logo=ansible)
+![AWS](https://img.shields.io/badge/AWS-Cloud-blue?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-blue?style=for-the-badge)
+![GCP](https://img.shields.io/badge/GCP-Cloud-blue?style=for-the-badge)
 
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
