@@ -5,7 +5,7 @@ class Mia():
     
   def __init__(self):
     self.name = "Mia Seriki";
-    self.username = "ayodeleserikis";
+    self.username = "ayodeleseriki";
     self.location = "Lagos, Nigeria";
     self.twitter = "@techgirlxx";
     self.web = "https://";
