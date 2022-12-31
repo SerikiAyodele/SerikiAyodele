@@ -1,5 +1,22 @@
 ### Hi there 👋, I'm Mia
 
+```python
+class AbhigyanTrips():
+    
+  def __init__(self):
+    self.name = "Abhigyan Tripathi";
+    self.username = "abhigyantrips";
+    self.location = "Mumbai, India";
+    self.twitter = "@abhigyantrips";
+    self.web = "https://abhigyantrips.dev";
+  
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = AbhigyanTrips()
+```
+
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
